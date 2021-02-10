@@ -1,0 +1,98 @@
+LFMD, Piste_1: 170 350, Piste_2: 050 230
+LFMN, Piste_1: 040 220 
+LFQB, Piste_1: 170 350, Piste_2: 050 230
+LFMK, Piste_1: 100 280
+LFCR, Piste_1: 130 310
+LFMI, Piste_1: 150 330
+LFML, Piste_1: 130 310
+LFMY, Piste_1: 160 340, Piste_2: 090 270
+LFRK, Piste_1: 130 310, Piste_2: 050 230
+LFRG, Piste_1: 120 300
+LFLW, Piste_1: 150 330
+LFBU, Piste_1: 100 280
+LFBG, Piste_1: 050 230, Piste_2: 090 270
+LFBH, Piste_1: 090 270
+LFOA, Piste_1: 060 240
+LFSD, Piste_1: 170 350, Piste_2: 010 190
+LFRO, Piste_1: 110 290
+LFRT, Piste_1: 060 240
+LFBE, Piste_1: 100 280
+LFOE, Piste_1: 040 220
+LFOC, Piste_1: 098 278
+LFRB, Piste_1: 250 070
+LFRJ, Piste_1: 080 260
+LFRL, Piste_1: 050 230, Piste_2: 130 310
+LFRU, Piste_1: 050 230, Piste_2: 160 340, Piste_3: 090 270
+LFRQ, Piste_1: 100 280, Piste_2: 040 220
+LFTW, Piste_1: 180 360
+LFBO, Piste_1: 140 320
+LFBD, Piste_1: 050 230, Piste_2: 110 290
+LFBC, Piste_1: 060 240
+LFMU, Piste_1: 090 270
+LFMT, Piste_1: 120 300
+LFRD, Piste_1: 170 350, Piste_2: 120 300
+LFRN, Piste_1: 100 280, Piste_2: 140 320
+LFLX, Piste_1: 030 210
+LFOT, Piste_1: 020 200
+LFLS, Piste_1: 090 270
+LFGJ, Piste_1: 054 234
+LFBY, Piste_1: 080 260
+LFBM, Piste_1: 090 270
+LFMH, Piste_1: 180 360
+LFRS, Piste_1: 030 210
+LFRZ, Piste_1: 080 260
+LFOJ, Piste_1: 070 250
+LFBA, Piste_1: 110 290
+LFJR, Piste_1: 080 260
+LFRC, Piste_1: 100 280
+LFOK, Piste_1: 100 280
+LFQA, Piste_1: 070 250
+LFSI, Piste_1: 110 290
+LFOV, Piste_1: 140 320
+LFSL, Piste_1: 110 290
+LFSN, Piste_1: 030 210
+LFSO, Piste_1: 020 200
+LFRH, Piste_1: 070 250, Piste_2: 020 200
+LFRV, Piste_1: 040 220, Piste_2: 080 260
+LFJL, Piste_1: 040 220
+LFQG, Piste_1: 120 300
+LFQQ, Piste_1: 080 260, Piste_2: 020 200
+LFOB, Piste_1: 120 300, Piste_2: 040 220
+LFPC, Piste_1: 070 250
+LFAT, Piste_1: 140 320
+LFLC, Piste_1: 080 260, Piste_2: 010 190
+LFBZ, Piste_1: 090 270
+LFBP, Piste_1: 130 310
+LFBT, Piste_1: 020 200
+LFMP, Piste_1: 150 330, Piste_2: 130 310
+LFST, Piste_1: 050 230
+LFSB, Piste_1: 150 330, Piste_2: 080 260
+LFGA, Piste_1: 190 010
+LFLY, Piste_1: 160 340
+LFLL, Piste_1: 180 360
+LFSX, Piste_1: 110 290
+LFLN, Piste_1: 150 330
+LFRM, Piste_1: 020 200
+LFLB, Piste_1: 180 360
+LFLP, Piste_1: 040 220
+LFOP, Piste_1: 040 220, Piste_2: 050 230
+LFPM, Piste_1: 280 100, Piste_2: 010 190
+LFPG, Piste_1: 090 270, Piste_2: 080 260
+LFPN, Piste_1: 070 250
+LFPV, Piste_1: 090 270
+LFAQ, Piste_1: 090 270
+LFTH, Piste_1: 050 230, Piste_2: 130 310
+LFMV, Piste_1: 170 350
+LFMO, Piste_1: 140 320
+LFRI, Piste_1: 100 280
+LFBI, Piste_1: 030 210
+LFBL, Piste_1: 030 210
+LFPO, Piste_1: 060 240, Piste_2: 080 260, Piste_3: 020 200
+LFPB, Piste_1: 070 250, Piste_2: 030 210, Piste_3: 090 270
+LFPT, Piste_1: 050 230, Piste_2: 120 300
+LFKJ, Piste_1: 020 200
+LFKF, Piste_1: 050 230
+LFKB, Piste_1: 160 340
+LFKC, Piste_1: 180 360
+LFKS, Piste_1: 180 360
+LSGG, Piste_1: 050 230

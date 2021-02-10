@@ -1,0 +1,12 @@
+Heure du relevé : 18:00 UTC+00
+Température : °C
+Point de rosée : /KT°C
+Visibilité : 10.0 km
+Température : 11°C
+Point de rosée : 03°C
+Pression au niveau de la mer : 1020 hPa
+
+
+Palier : Ciel fragmenté en dessous de 3900 pieds
+(soit 1189.0 metres d'altitude)
+

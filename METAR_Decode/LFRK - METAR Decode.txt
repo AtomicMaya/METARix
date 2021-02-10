@@ -1,0 +1,22 @@
+Heure du relevé : 17:00 UTC+00
+Angle du vent : 310°
+Vitesse du vent : 05 Knots, soit : 9.26 km/h
+Visibilité : 7.0 km
+Température : 16°C
+Point de rosée : 15°C
+Pression au niveau de la mer : 1004 hPa
+
+Phénomène météorologique : Averses
+Phénomène météorologique : Pluie
+
+Palier : Ciel fragmenté en dessous de 600 pieds
+(soit 183.0 metres d'altitude)
+Palier : Ciel fragmenté en dessous de 5600 pieds
+(soit 1707.0 metres d'altitude)
+Palier : Ciel couvert en dessous de 6600 pieds
+(soit 2012.0 metres d'altitude)
+Palier : Ciel fragmenté en dessous de 1000 pieds
+(soit 305.0 metres d'altitude)
+Palier : Ciel fragmenté en dessous de 2000 pieds
+(soit 610.0 metres d'altitude)
+

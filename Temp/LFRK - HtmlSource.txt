@@ -1,0 +1,656 @@
+<!doctype html>
+<html lang="fr" dir="ltr"><head><META charset="UTF-8">
+<title>METAR TAF : Aéroport de Caen - Carpiquet, Caen  France</title><meta name="description" content="METAR TAF : Observation et Prévision, Caen Aéroport de Caen - Carpiquet  France"><meta name="author" content="allmetsat">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="http://www.allmetsat.com/data/stylem.css">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9503816-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="noir">
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+<script src="http://www.allmetsat.com/data/overlib_mini.js"></script>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-9503816-2";
+</script>
+<div id="main"><div class="vert">
+<div class="noir"><a href="http://fr.allmetsat.com/index.html" target="_top"><img src="http://www.allmetsat.com/img/logo_allmetsat_p2.gif" alt="Accueil" width="26" height="26"></a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/images/sat24_france_vis.php">Images satellite</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/prevision-meteo/france.php?city=3403">Prévisions 10 jours</a></div><div class="oranf"><a href="http://fr.allmetsat.com/climat/france.php?code=07027">Climat</a></div><div class="oranf"><a href="http://fr.allmetsat.com/meteo-marine/europe.php">Météo marine</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/cyclones.php">Cyclones</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/images/foudre-france.php">Foudre</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/aeroports/france.php?icao=LFRK">Aéroports</a></div><div class="oranf"><a href="http://fr.allmetsat.com/faq.php">FAQ</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/langues.php">Langues</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/contact.php">Contact</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/news.php">Actualités</a></div>
+<div class="oranf"><a href="http://fr.allmetsat.com/disclaimer.php">A propos</a></div>
+</div>
+<div class="vert">
+ <div class="vertb">METAR-TAF:</div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/europe.php">Europe</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/afrique.php">Afrique</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/amerique-du-nord.php">Amérique du Nord</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/amerique-du-sud.php">Amérique du Sud</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/asie.php">Asie</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/australie-oceanie.php">Australie-Océanie</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/index.html">Autres</a></div>
+</div>
+<div class="pub">
+<ins class="adsbygoogle adslot_728"
+     style="display:block"
+     data-ad-client="ca-pub-1098622469731978"
+     data-ad-slot="8803600330"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div><div id="google">
+<form action="http://fr.allmetsat.com/google.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-1098622469731978:9336920675" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="Rechercher" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=fr"></script>
+<p>Aéroports :<select onchange="javascript:location.href = this.value;">
+     <option value="france.php?icao=LFRK">Caen</option>
+     <option value="france.php?icao=LFBA">Agen</option>
+     <option value="france.php?icao=LFKJ">Ajaccio</option>
+     <option value="france.php?icao=LIMG">Albenga</option>
+     <option value="france.php?icao=LFAQ">Albert</option>
+     <option value="france.php?icao=EHAM">Amsterdam</option>
+     <option value="france.php?icao=LIMU">Andora</option>
+     <option value="france.php?icao=LFJR">Angers</option>
+     <option value="france.php?icao=LFBU">Angoulême</option>
+     <option value="france.php?icao=LFLP">Annecy</option>
+     <option value="france.php?icao=EBAW">Anvers</option>
+     <option value="france.php?icao=EHDL">Arnhem</option>
+     <option value="france.php?icao=EGJA">Aurigny</option>
+     <option value="france.php?icao=LFLW">Aurillac</option>
+     <option value="france.php?icao=LFMV">Avignon</option>
+     <option value="france.php?icao=LFOA">Avord</option>
+     <option value="france.php?icao=EDSB">Baden-Baden</option>
+     <option value="france.php?icao=LFSB">Bâle-Mulhouse</option>
+     <option value="france.php?icao=LEBL">Barcelone</option>
+     <option value="france.php?icao=EGYE">Barkston Heath</option>
+     <option value="france.php?icao=LFKB">Bastia</option>
+     <option value="france.php?icao=LFOB">Beauvais</option>
+     <option value="france.php?icao=EBBE">Beauvechain</option>
+     <option value="france.php?icao=EGUB">Benson</option>
+     <option value="france.php?icao=LIME">Bergame</option>
+     <option value="france.php?icao=LFBE">Bergerac</option>
+     <option value="france.php?icao=LSZB">Berne</option>
+     <option value="france.php?icao=LFMU">Béziers</option>
+     <option value="france.php?icao=LFBZ">Biarritz</option>
+     <option value="france.php?icao=LEBB">Bilbao</option>
+     <option value="france.php?icao=EGBB">Birmingham</option>
+     <option value="france.php?icao=LFBD">Bordeaux</option>
+     <option value="france.php?icao=EGHH">Bornemouth</option>
+     <option value="france.php?icao=EGDM">Boscombe Down</option>
+     <option value="france.php?icao=LFRB">Brest</option>
+     <option value="france.php?icao=EGKA">Brighton</option>
+     <option value="france.php?icao=EGGD">Bristol</option>
+     <option value="france.php?icao=LFSL">Brive-la-Gaillarde</option>
+     <option value="france.php?icao=EGVN">Brize Norton</option>
+     <option value="france.php?icao=EBBR">Bruxelles</option>
+     <option value="france.php?icao=ETSB">Büchel</option>
+     <option value="france.php?icao=ETHB">Bückeburg</option>
+     <option value="france.php?icao=LEBG">Burgos</option>
+     <option value="france.php?icao=EBLB">Butgenbach</option>
+     <option value="france.php?icao=LFRK">Caen</option>
+     <option value="france.php?icao=LFKC">Calvi</option>
+     <option value="france.php?icao=EGSC">Cambridge</option>
+     <option value="france.php?icao=LFMD">Cannes</option>
+     <option value="france.php?icao=LFMK">Carcassonne</option>
+     <option value="france.php?icao=EGFF">Cardiff</option>
+     <option value="france.php?icao=EDVK">Cassel</option>
+     <option value="france.php?icao=LFBC">Cazaux</option>
+     <option value="france.php?icao=LFOK">Châlons-en-Champagne</option>
+     <option value="france.php?icao=LFLB">Chambery / Aix-Les-Bains</option>
+     <option value="france.php?icao=EBCI">Charleroi</option>
+     <option value="france.php?icao=LFOC">Châteaudun</option>
+     <option value="france.php?icao=LFLX">Châteauroux</option>
+     <option value="france.php?icao=LFRC">Cherbourg</option>
+     <option value="france.php?icao=EBCV">Chièvres</option>
+     <option value="france.php?icao=LFLC">Clermont-Ferrand</option>
+     <option value="france.php?icao=LFBG">Cognac</option>
+     <option value="france.php?icao=EGUO">Colerne</option>
+     <option value="france.php?icao=LFGA">Colmar</option>
+     <option value="france.php?icao=EDDK">Cologne</option>
+     <option value="france.php?icao=LIMZ">Coni</option>
+     <option value="france.php?icao=EGBE">Coventry</option>
+     <option value="france.php?icao=EBFN">Coxyde</option>
+     <option value="france.php?icao=EGTC">Cranfield</option>
+     <option value="france.php?icao=LFPC">Creil</option>
+     <option value="france.php?icao=LFBY">Dax</option>
+     <option value="france.php?icao=LFRG">Deauville</option>
+     <option value="france.php?icao=EDRZ">Deux-Ponts</option>
+     <option value="france.php?icao=ETND">Diepholz</option>
+     <option value="france.php?icao=EBDT">Diest</option>
+     <option value="france.php?icao=LFSD">Dijon</option>
+     <option value="france.php?icao=LFRD">Dinard</option>
+     <option value="france.php?icao=LFGJ">Dole</option>
+     <option value="france.php?icao=LOIH">Dornbirn</option>
+     <option value="france.php?icao=EDLW">Dortmund</option>
+     <option value="france.php?icao=EDDL">Düsseldorf</option>
+     <option value="france.php?icao=EHEH">Eindhoven</option>
+     <option value="france.php?icao=LFOE">Évreux</option>
+     <option value="france.php?icao=EGTE">Exeter</option>
+     <option value="france.php?icao=EGVA">Fairford</option>
+     <option value="france.php?icao=EGLF">Farnborough</option>
+     <option value="france.php?icao=LFKF">Figari</option>
+     <option value="france.php?icao=EBFS">Florennes</option>
+     <option value="france.php?icao=EDDF">Francfort-sur-le-Main</option>
+     <option value="france.php?icao=EDNY">Friedrichshafen</option>
+     <option value="france.php?icao=ETHF">Fritzlar</option>
+     <option value="france.php?icao=ETNG">Geilenkirchen</option>
+     <option value="france.php?icao=LIMJ">Gênes</option>
+     <option value="france.php?icao=LSGG">Genève</option>
+     <option value="france.php?icao=LEGE">Gérone</option>
+     <option value="france.php?icao=EHGR">Gilze-Rijen</option>
+     <option value="france.php?icao=EGBJ">Gloucester</option>
+     <option value="france.php?icao=LSZG">Granges</option>
+     <option value="france.php?icao=LFLS">Grenoble</option>
+     <option value="france.php?icao=EGJB">Guernesey</option>
+     <option value="france.php?icao=EDFH">Hahn</option>
+     <option value="france.php?icao=EDDV">Hanovre</option>
+     <option value="france.php?icao=EGYH">Holbeach</option>
+     <option value="france.php?icao=LEHC">Huesca</option>
+     <option value="france.php?icao=LFMI">Istres</option>
+     <option value="france.php?icao=EGJJ">Jersey</option>
+     <option value="france.php?icao=LSGC">La Chaux-de-Fonds</option>
+     <option value="france.php?icao=EDTL">Lahr</option>
+     <option value="france.php?icao=EGUL">Lakenheath</option>
+     <option value="france.php?icao=LFRJ">Landivisiau</option>
+     <option value="france.php?icao=LFRO">Lannion</option>
+     <option value="france.php?icao=LFRL">Lanvéoc</option>
+     <option value="france.php?icao=LFBH">La Rochelle</option>
+     <option value="france.php?icao=LFRI">La Roche-sur-Yon</option>
+     <option value="france.php?icao=ETHL">Laupheim</option>
+     <option value="france.php?icao=LFOV">Laval</option>
+     <option value="france.php?icao=LFOH">Le Havre</option>
+     <option value="france.php?icao=EHKD">Le Helder</option>
+     <option value="france.php?icao=LFMC">Le Luc</option>
+     <option value="france.php?icao=LFRM">Le Mans</option>
+     <option value="france.php?icao=LFAT">Le Touquet</option>
+     <option value="france.php?icao=EBLG">Liège</option>
+     <option value="france.php?icao=LFQQ">Lille</option>
+     <option value="france.php?icao=LFBL">Limoges</option>
+     <option value="france.php?icao=LEDA">Lleida</option>
+     <option value="france.php?icao=LELO">Logroño</option>
+     <option value="france.php?icao=EGLC">Londres</option>
+     <option value="france.php?icao=EGKB">Londres Biggin Hill</option>
+     <option value="france.php?icao=EGKK">Londres-Gatwick</option>
+     <option value="france.php?icao=EGLL">Londres-Heathrow</option>
+     <option value="france.php?icao=EGGW">Londres-Luton</option>
+     <option value="france.php?icao=EGMC">Londres-Southend</option>
+     <option value="france.php?icao=EGSS">Londres-Stansted</option>
+     <option value="france.php?icao=LFRH">Lorient</option>
+     <option value="france.php?icao=LSZA">Lugano</option>
+     <option value="france.php?icao=ELLX">Luxembourg</option>
+     <option value="france.php?icao=LFSX">Luxeuil-les-Bains</option>
+     <option value="france.php?icao=EGMD">Lydd</option>
+     <option value="france.php?icao=LFLY">Lyon</option>
+     <option value="france.php?icao=LFLL">Lyon / Saint Exupéry</option>
+     <option value="france.php?icao=EHBK">Maastricht Aix-la-Chapelle</option>
+     <option value="france.php?icao=EDFM">Mannheim</option>
+     <option value="france.php?icao=EGYM">Marham</option>
+     <option value="france.php?icao=LFML">Marseille</option>
+     <option value="france.php?icao=LFPM">Melun</option>
+     <option value="france.php?icao=ETWM">Meppen</option>
+     <option value="france.php?icao=LFJL">Metz-Nancy-Lorraine</option>
+     <option value="france.php?icao=EGVP">Middle Wallop</option>
+     <option value="france.php?icao=LIMC">Milan</option>
+     <option value="france.php?icao=LIML">Milan</option>
+     <option value="france.php?icao=EGUN">Mildenhall</option>
+     <option value="france.php?icao=EDLN">Mönchengladbach</option>
+     <option value="france.php?icao=LFBM">Mont-De-Marsan</option>
+     <option value="france.php?icao=LFMT">Montpellier</option>
+     <option value="france.php?icao=LFRU">Morlaix</option>
+     <option value="france.php?icao=EDDG">Münster-Osnabrück</option>
+     <option value="france.php?icao=LFSN">Nancy</option>
+     <option value="france.php?icao=LFSO">Nancy</option>
+     <option value="france.php?icao=LFRS">Nantes</option>
+     <option value="france.php?icao=LFQG">Nevers</option>
+     <option value="france.php?icao=EGHQ">Newquay Cornwall</option>
+     <option value="france.php?icao=LFMN">Nice</option>
+     <option value="france.php?icao=ETHN">Niederstetten</option>
+     <option value="france.php?icao=LFTW">Nîmes</option>
+     <option value="france.php?icao=EGWU">Northolt</option>
+     <option value="france.php?icao=ETNN">Nörvenich</option>
+     <option value="france.php?icao=EGSH">Norwich</option>
+     <option value="france.php?icao=EGNX">Nottingham Leicester Derby</option>
+     <option value="france.php?icao=LIMN">Novare</option>
+     <option value="france.php?icao=EGVO">Odiham</option>
+     <option value="france.php?icao=LFMO">Orange</option>
+     <option value="france.php?icao=LFOJ">Orléans</option>
+     <option value="france.php?icao=EBOS">Ostende</option>
+     <option value="france.php?icao=EDLP">Paderborn-Lippstadt</option>
+     <option value="france.php?icao=LEPP">Pampelune</option>
+     <option value="france.php?icao=LFPB">Paris</option>
+     <option value="france.php?icao=LFPG">Paris-Charles De Gaulle</option>
+     <option value="france.php?icao=LFPO">Paris-Orly</option>
+     <option value="france.php?icao=LIMV">Passo dei Giovi</option>
+     <option value="france.php?icao=LIMT">Passo della Cisa</option>
+     <option value="france.php?icao=LFBP">Pau</option>
+     <option value="france.php?icao=LSMP">Payerne</option>
+     <option value="france.php?icao=EBBL">Peer</option>
+     <option value="france.php?icao=EGOP">Pembrey</option>
+     <option value="france.php?icao=LFMP">Perpignan</option>
+     <option value="france.php?icao=LIMH">Pian Rosa</option>
+     <option value="france.php?icao=LIMS">Plaisance</option>
+     <option value="france.php?icao=LFBI">Poitiers</option>
+     <option value="france.php?icao=LFPT">Pontoise</option>
+     <option value="france.php?icao=LIMY">Prato Nevoso</option>
+     <option value="france.php?icao=LFRQ">Quimper</option>
+     <option value="france.php?icao=ETAR">Ramstein</option>
+     <option value="france.php?icao=LFQA">Reims</option>
+     <option value="france.php?icao=LFRN">Rennes</option>
+     <option value="france.php?icao=LERS">Reus</option>
+     <option value="france.php?icao=ETHE">Rheine</option>
+     <option value="france.php?icao=LFCR">Rodez</option>
+     <option value="france.php?icao=LFYR">Romorantin</option>
+     <option value="france.php?icao=EHRD">Rotterdam</option>
+     <option value="france.php?icao=LFOP">Rouen</option>
+     <option value="france.php?icao=LELL">Sabadell</option>
+     <option value="france.php?icao=LFRT">Saint-Brieuc</option>
+     <option value="france.php?icao=LFSI">Saint-Dizier</option>
+     <option value="france.php?icao=LFMH">Saint-Etienne</option>
+     <option value="france.php?icao=LSZR">Saint-Gall</option>
+     <option value="france.php?icao=LSZS">Saint-Moritz</option>
+     <option value="france.php?icao=LFRZ">Saint-Nazaire</option>
+     <option value="france.php?icao=LESO">Saint-Sébastien</option>
+     <option value="france.php?icao=LFLN">Saint-Yan</option>
+     <option value="france.php?icao=LFMY">Salon-de-Provence</option>
+     <option value="france.php?icao=LEXJ">Santander</option>
+     <option value="france.php?icao=LEZG">Saragosse</option>
+     <option value="france.php?icao=EDDR">Sarrebruck</option>
+     <option value="france.php?icao=LIQW">Sarzana</option>
+     <option value="france.php?icao=EGOS">Shawbury</option>
+     <option value="france.php?icao=EDGS">Siegen</option>
+     <option value="france.php?icao=LSGS">Sion</option>
+     <option value="france.php?icao=LFKS">Solenzara</option>
+     <option value="france.php?icao=EGHI">Southampton</option>
+     <option value="france.php?icao=ETAD">Spangdahlem</option>
+     <option value="france.php?icao=EGDX">St Athan</option>
+     <option value="france.php?icao=LFST">Strasbourg</option>
+     <option value="france.php?icao=EDDS">Stuttgart</option>
+     <option value="france.php?icao=LFBT">Tarbes Lourdes</option>
+     <option value="france.php?icao=LFTH">Toulon</option>
+     <option value="france.php?icao=LFBO">Toulouse</option>
+     <option value="france.php?icao=LFOT">Tours</option>
+     <option value="france.php?icao=LFPN">Toussus-le-Noble</option>
+     <option value="france.php?icao=LFQB">Troyes</option>
+     <option value="france.php?icao=LIMF">Turin</option>
+     <option value="france.php?icao=LIMK">Turin</option>
+     <option value="france.php?icao=EHVK">Uden</option>
+     <option value="france.php?icao=LEVD">Valladolid</option>
+     <option value="france.php?icao=LFRV">Vannes</option>
+     <option value="france.php?icao=LFPV">Villacoublay</option>
+     <option value="france.php?icao=LEVT">Vitoria</option>
+     <option value="france.php?icao=EGUW">Wattisham</option>
+     <option value="france.php?icao=EDLV">Weeze</option>
+     <option value="france.php?icao=ETOU">Wiesbaden</option>
+     <option value="france.php?icao=EGXT">Wittering</option>
+     <option value="france.php?icao=EHWO">Woensdrecht</option>
+     <option value="france.php?icao=ETNW">Wunstorf</option>
+     <option value="france.php?icao=EGUY">Wyton</option>
+     <option value="france.php?icao=EGDY">Yeovilton</option>
+     <option value="france.php?icao=LSZH">Zurich</option>
+</select></p>
+<p><select onchange="javascript:location.href = this.value;">
+     <option value="france.php">France</option>
+     <option value="allemagne.php">Allemagne</option>
+     <option value="angleterre-galles.php">Angleterre</option>
+     <option value="autriche-rep-tcheque-slovenie.php">Autriche</option>
+     <option value="pays-bas-belgique-luxembourg.php">Belgique</option>
+     <option value="espagne-portugal.php">Espagne</option>
+     <option value="europe.php">Europe</option>
+     <option value="irlande.php">Irlande</option>
+     <option value="italie.php">Italie</option>
+     <option value="suisse-italie-nord.php">Italie, nord</option>
+     <option value="pays-bas-belgique-luxembourg.php">Luxembourg</option>
+     <option value="pays-bas-belgique-luxembourg.php">Pays-Bas</option>
+     <option value="angleterre-galles.php">Pays de Galles</option>
+     <option value="portugal-espagne.php">Portugal</option>
+     <option value="autriche-rep-tcheque-slovenie.php">République Tchèque</option>
+     <option value="royaume-uni-irlande.php">Royaume-Uni</option>
+     <option value="autriche-rep-tcheque-slovenie.php">Slovénie</option>
+     <option value="suisse-italie-nord.php">Suisse</option>
+</select></p></div>
+<div class="c1b">
+<h1>Caen, France</h1><p>Aéroport de Caen - Carpiquet</p><p>latitude: 49-11N, longitude: 000-27W, altitude: 78 m</p><h4>Observation</h4><div class="mt">Le bulletin a été fait il y a <b>35</b> minutes, à <b>17:00</b> UTC</div><div class="mt">Vent <b>5</b> kt de <b>nord-ouest</b></div><div class="mt">Température <b>16</b>°C</div><div class="mt">Humidité <b>94</b>%</div><div class="mt">Pression <b>1004</b> hPa</div><div class="mt">Visibilité: <b>7000</b> m </div><br><div class="mt2"><a href=../unites.php>Changer d'unités</a></div><div class="mt3"><script type="text/javascript" src="http://www.allmetsat.com/data/pub/google_fr_336x280.js"></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><p><b>METAR:</b> LFRK 101700Z AUTO 31005KT 7000 BKN006/// BKN056/// OVC066/// ///CB 16/15 Q1004 TEMPO SHRA BKN010 BKN020CB 
+</p></div><div class="c1">
+<h2>Heure: 19:35 (17:35 UTC)</h2><h4>Prévision</h4><div class="mt">Le bulletin a été fait il y a <b>3</b> heures et <b>35</b> minutes, à <b>14:00</b> UTC</div><div class="mt2"><i>Prévision valable du 10 à 15 UTC au 10 à 24 UTC</i></div><div class="mt">Vent <b>3</b> kt de direction variable</div><div class="mt">Visibilité 10 km ou plus</div><div class="mt"><b>Nuages fragmentés</b> à une hauteur de <b>2000</b> ft</div><div class="mt2"><i>Temporairement<br>du 10 à 15 UTC au 10 à 20 UTC</i></div><div class="mt">Visibilité: <b>5000</b> m</div><div class="mt"><b>Nuages fragmentés</b> à une hauteur de <b>1000</b> ft <br> <b>Nuages fragmentés</b> à une hauteur de <b>2000</b> ft, <b>Cumulonimbus.</b> </div><div class="mt"><b> averses de pluie</b></div><div class="mt2"><i>Probabilité 30% :</i></div><div class="mt2"><i>Temporairement<br>du 10 à 15 UTC au 10 à 18 UTC</i></div><div class="mt">Visibilité: <b>3000</b> m</div><div class="mt"><b>Nuages fragmentés</b> à une hauteur de <b>1000</b> ft <br> <b>Nuages fragmentés</b> à une hauteur de <b>2000</b> ft, <b>Cumulonimbus.</b> </div><div class="mt"><b> orage,  pluie</b></div><div class="mt2"><i>Evoluant progressivement<br>du 10 à 18 UTC au 10 à 20 UTC</i></div><div class="mt">Visibilité: <b>3000</b> m</div><div class="mt"><b>Nuages fragmentés</b> à une hauteur de <b>500</b> ft</div><div class="mt"><b> brume</b></div><div class="mt2"><i>Temporairement<br>du 10 à 20 UTC au 10 à 24 UTC</i></div><div class="mt">Visibilité: <b>1000</b> m</div><div class="mt"><b>Ciel couvert</b> à une hauteur de <b>100</b> ft</div><div class="mt"><b> brume</b></div><p><b>TAF:</b> LFRK 101400Z 1015/1024 VRB03KT 9999 BKN020 TEMPO 1015/1020 5000 SHRA BKN010 BKN020CB PROB30 TEMPO 1015/1018 3000 TSRA BKN010 BKN020CB BECMG 1018/1020 3000 BR BKN005 TEMPO 1020/1024 1000 BR OVC001 
+</p></div><div class="c3">
+<h2>METAR-TAF</h2><p>Observations et prévisions météorologiques de plus de 4000 aéroports (messages METAR et TAF).</p><p>Les stations disponibles sont représentées par des disques jaunes et rouges sur la carte.</p><p>Passer la souris dessus pour voir le nom de la station.</p><p>Cliquer dessus pour voir les observations et prévisions météorologiques.</p><map NAME="zone">
+<area SHAPE=CIRCLE href="france.php?icao=EBAW" coords="281,61,4" onmouseover="return overlib('Anvers');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBBE" coords="290,74,4" onmouseover="return overlib('Beauvechain');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBBL" coords="310,62,4" onmouseover="return overlib('Peer');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBBR" coords="283,69,4" onmouseover="return overlib('Bruxelles');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBCI" coords="281,82,4" onmouseover="return overlib('Charleroi');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBCV" coords="263,79,4" onmouseover="return overlib('Chièvres');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBDT" coords="299,67,4" onmouseover="return overlib('Diest');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBFN" coords="229,64,4" onmouseover="return overlib('Coxyde');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBFS" coords="286,89,4" onmouseover="return overlib('Florennes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBLB" coords="330,82,4" onmouseover="return overlib('Butgenbach');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBLG" coords="309,77,4" onmouseover="return overlib('Liège');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EBOS" coords="235,61,4" onmouseover="return overlib('Ostende');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDF" coords="400,94,4" onmouseover="return overlib('Francfort-sur-le-Main');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDG" coords="374,34,4" onmouseover="return overlib('Münster-Osnabrück');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDK" coords="359,70,4" onmouseover="return overlib('Cologne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDL" coords="347,58,4" onmouseover="return overlib('Düsseldorf');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDR" coords="357,118,4" onmouseover="return overlib('Sarrebruck');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDS" coords="418,133,4" onmouseover="return overlib('Stuttgart');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDDV" coords="431,24,4" onmouseover="return overlib('Hanovre');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDFH" coords="362,97,4" onmouseover="return overlib('Hahn');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDFM" coords="398,110,4" onmouseover="return overlib('Mannheim');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDGS" coords="385,75,4" onmouseover="return overlib('Siegen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDLN" coords="340,60,4" onmouseover="return overlib('Mönchengladbach');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDLP" coords="401,49,4" onmouseover="return overlib('Paderborn-Lippstadt');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDLV" coords="329,49,4" onmouseover="return overlib('Weeze');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDLW" coords="372,52,4" onmouseover="return overlib('Dortmund');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDNY" coords="426,162,4" onmouseover="return overlib('Friedrichshafen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDRZ" coords="366,118,4" onmouseover="return overlib('Deux-Ponts');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDSB" coords="385,130,4" onmouseover="return overlib('Baden-Baden');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDTL" coords="378,142,4" onmouseover="return overlib('Lahr');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EDVK" coords="422,55,4" onmouseover="return overlib('Cassel');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGBB" coords="103,25,4" onmouseover="return overlib('Birmingham');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGBE" coords="110,27,4" onmouseover="return overlib('Coventry');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGBJ" coords="90,41,4" onmouseover="return overlib('Gloucester');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGDM" coords="102,62,4" onmouseover="return overlib('Boscombe Down');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGDX" coords="54,55,4" onmouseover="return overlib('St Athan');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGDY" coords="77,67,4" onmouseover="return overlib('Yeovilton');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGFF" coords="56,55,4" onmouseover="return overlib('Cardiff');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGGD" coords="75,56,4" onmouseover="return overlib('Bristol');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGGW" coords="142,41,4" onmouseover="return overlib('Londres-Luton');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGHH" coords="100,73,4" onmouseover="return overlib('Bornemouth');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGHI" coords="113,69,4" onmouseover="return overlib('Southampton');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGHQ" coords="9,83,4" onmouseover="return overlib('Newquay Cornwall');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGJA" coords="90,103,4" onmouseover="return overlib('Aurigny');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGJB" coords="78,112,4" onmouseover="return overlib('Guernesey');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGJJ" coords="90,118,4" onmouseover="return overlib('Jersey');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGKA" coords="145,71,4" onmouseover="return overlib('Brighton');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGKB" coords="154,57,4" onmouseover="return overlib('Londres Biggin Hill');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGKK" coords="148,62,4" onmouseover="return overlib('Londres-Gatwick');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGLC" coords="154,52,4" onmouseover="return overlib('Londres');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGLF" coords="131,58,4" onmouseover="return overlib('Farnborough');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGLL" coords="140,53,4" onmouseover="return overlib('Londres-Heathrow');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGMC" coords="173,50,4" onmouseover="return overlib('Londres-Southend');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGMD" coords="179,68,4" onmouseover="return overlib('Lydd');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGNX" coords="115,14,4" onmouseover="return overlib('Nottingham Leicester Derby');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGOP" coords="27,46,4" onmouseover="return overlib('Pembrey');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGOS" coords="76,15,4" onmouseover="return overlib('Shawbury');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGSC" coords="158,32,4" onmouseover="return overlib('Cambridge');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGSH" coords="190,20,4" onmouseover="return overlib('Norwich');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGSS" coords="159,41,4" onmouseover="return overlib('Londres-Stansted');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGTC" coords="135,36,4" onmouseover="return overlib('Cranfield');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGTE" coords="54,74,4" onmouseover="return overlib('Exeter');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGUB" coords="122,49,4" onmouseover="return overlib('Benson');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGUL" coords="169,26,4" onmouseover="return overlib('Lakenheath');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGUN" coords="167,27,4" onmouseover="return overlib('Mildenhall');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGUO" coords="87,54,4" onmouseover="return overlib('Colerne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGUW" coords="181,34,4" onmouseover="return overlib('Wattisham');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGUY" coords="149,28,4" onmouseover="return overlib('Wyton');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGVA" coords="102,47,4" onmouseover="return overlib('Fairford');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGVN" coords="107,45,4" onmouseover="return overlib('Brize Norton');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGVO" coords="125,60,4" onmouseover="return overlib('Odiham');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGVP" coords="108,62,4" onmouseover="return overlib('Middle Wallop');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGWU" coords="141,51,4" onmouseover="return overlib('Northolt');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGXT" coords="139,20,4" onmouseover="return overlib('Wittering');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGYE" coords="136,10,4" onmouseover="return overlib('Barkston Heath');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGYH" coords="157,13,4" onmouseover="return overlib('Holbeach');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EGYM" coords="169,19,4" onmouseover="return overlib('Marham');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHAM" coords="290,29,4" onmouseover="return overlib('Amsterdam');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHBK" coords="319,69,4" onmouseover="return overlib('Maastricht Aix-la-Chapelle');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHDL" coords="322,36,4" onmouseover="return overlib('Arnhem');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHEH" coords="309,54,4" onmouseover="return overlib('Eindhoven');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHGR" coords="294,50,4" onmouseover="return overlib('Gilze-Rijen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHKD" coords="290,11,4" onmouseover="return overlib('Le Helder');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHRD" coords="281,39,4" onmouseover="return overlib('Rotterdam');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHVK" coords="317,48,4" onmouseover="return overlib('Uden');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=EHWO" coords="277,54,4" onmouseover="return overlib('Woensdrecht');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ELLX" coords="332,106,4" onmouseover="return overlib('Luxembourg');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETAD" coords="345,96,4" onmouseover="return overlib('Spangdahlem');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETAR" coords="371,112,4" onmouseover="return overlib('Ramstein');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETHB" coords="414,30,4" onmouseover="return overlib('Bückeburg');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETHE" coords="365,29,4" onmouseover="return overlib('Rheine');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETHF" coords="420,63,4" onmouseover="return overlib('Fritzlar');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETHL" coords="438,146,4" onmouseover="return overlib('Laupheim');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETHN" coords="439,112,4" onmouseover="return overlib('Niederstetten');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETND" coords="393,21,4" onmouseover="return overlib('Diepholz');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETNG" coords="326,68,4" onmouseover="return overlib('Geilenkirchen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETNN" coords="345,71,4" onmouseover="return overlib('Nörvenich');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETNW" coords="424,25,4" onmouseover="return overlib('Wunstorf');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETOU" coords="392,94,4" onmouseover="return overlib('Wiesbaden');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETSB" coords="356,90,4" onmouseover="return overlib('Büchel');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=ETWM" coords="363,17,4" onmouseover="return overlib('Meppen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEBB" coords="69,288,4" onmouseover="return overlib('Bilbao');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEBG" coords="48,315,4" onmouseover="return overlib('Burgos');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEBL" coords="212,346,4" onmouseover="return overlib('Barcelone');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEDA" coords="168,333,4" onmouseover="return overlib('Lleida');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEGE" coords="232,328,4" onmouseover="return overlib('Gérone');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEHC" coords="144,323,4" onmouseover="return overlib('Huesca');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LELL" coords="213,339,4" onmouseover="return overlib('Sabadell');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LELO" coords="86,312,4" onmouseover="return overlib('Logroño');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEPP" coords="106,303,4" onmouseover="return overlib('Pampelune');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LERS" coords="186,350,4" onmouseover="return overlib('Reus');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LESO" coords="101,286,4" onmouseover="return overlib('Saint-Sébastien');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEVD" coords="13,333,4" onmouseover="return overlib('Valladolid');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEVT" coords="75,300,4" onmouseover="return overlib('Vitoria');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEXJ" coords="43,284,4" onmouseover="return overlib('Santander');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LEZG" coords="123,335,4" onmouseover="return overlib('Saragosse');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFAQ" coords="230,96,4" onmouseover="return overlib('Albert');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFAT" coords="200,81,4" onmouseover="return overlib('Le Touquet');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBA" coords="170,263,4" onmouseover="return overlib('Agen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBC" coords="120,253,4" onmouseover="return overlib('Cazaux');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBD" coords="133,244,4" onmouseover="return overlib('Bordeaux');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBE" coords="168,244,4" onmouseover="return overlib('Bergerac');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBG" coords="144,220,4" onmouseover="return overlib('Cognac');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBH" coords="118,205,4" onmouseover="return overlib('La Rochelle');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBI" coords="162,194,4" onmouseover="return overlib('Poitiers');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBL" coords="187,214,4" onmouseover="return overlib('Limoges');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBM" coords="138,270,4" onmouseover="return overlib('Mont-De-Marsan');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBO" coords="192,278,4" onmouseover="return overlib('Toulouse');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBP" coords="141,286,4" onmouseover="return overlib('Pau');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBT" coords="153,291,4" onmouseover="return overlib('Tarbes Lourdes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBU" coords="159,218,4" onmouseover="return overlib('Angoulême');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBY" coords="122,277,4" onmouseover="return overlib('Dax');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFBZ" coords="109,283,4" onmouseover="return overlib('Biarritz');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFCR" coords="224,256,4" onmouseover="return overlib('Rodez');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFGA" coords="364,150,4" onmouseover="return overlib('Colmar');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFGJ" coords="309,180,4" onmouseover="return overlib('Dole');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFJL" coords="332,125,4" onmouseover="return overlib('Metz-Nancy-Lorraine');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFJR" coords="144,165,4" onmouseover="return overlib('Angers');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFKB" coords="425,309,4" onmouseover="return overlib('Bastia');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFKC" coords="406,310,4" onmouseover="return overlib('Calvi');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFKF" coords="414,340,4" onmouseover="return overlib('Figari');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFKJ" coords="406,328,4" onmouseover="return overlib('Ajaccio');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFKS" coords="423,328,4" onmouseover="return overlib('Solenzara');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLB" coords="322,220,4" onmouseover="return overlib('Chambery / Aix-Les-Bains');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLC" coords="244,217,4" onmouseover="return overlib('Clermont-Ferrand');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLL" coords="299,218,4" onmouseover="return overlib('Lyon / Saint Exupéry');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLN" coords="268,198,4" onmouseover="return overlib('Saint-Yan');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLP" coords="328,212,4" onmouseover="return overlib('Annecy');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLS" coords="306,228,4" onmouseover="return overlib('Grenoble');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLW" coords="222,242,4" onmouseover="return overlib('Aurillac');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLX" coords="202,186,4" onmouseover="return overlib('Châteauroux');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFLY" coords="295,218,4" onmouseover="return overlib('Lyon');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMC" coords="336,286,4" onmouseover="return overlib('Le Luc');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMD" coords="353,281,4" onmouseover="return overlib('Cannes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMH" coords="276,224,4" onmouseover="return overlib('Saint-Etienne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMI" coords="294,282,4" onmouseover="return overlib('Istres');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMK" coords="219,290,4" onmouseover="return overlib('Carcassonne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFML" coords="303,284,4" onmouseover="return overlib('Marseille');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMN" coords="360,278,4" onmouseover="return overlib('Nice');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMO" coords="292,264,4" onmouseover="return overlib('Orange');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMP" coords="235,304,4" onmouseover="return overlib('Perpignan');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMT" coords="267,280,4" onmouseover="return overlib('Montpellier');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMU" coords="249,287,4" onmouseover="return overlib('Béziers');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMV" coords="294,270,4" onmouseover="return overlib('Avignon');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFMY" coords="299,279,4" onmouseover="return overlib('Salon-de-Provence');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOA" coords="228,180,4" onmouseover="return overlib('Avord');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOB" coords="214,110,4" onmouseover="return overlib('Beauvais');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOC" coords="192,151,4" onmouseover="return overlib('Châteaudun');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOE" coords="188,123,4" onmouseover="return overlib('Évreux');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOH" coords="155,109,4" onmouseover="return overlib('Le Havre');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOJ" coords="203,153,4" onmouseover="return overlib('Orléans');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOK" coords="273,130,4" onmouseover="return overlib('Châlons-en-Champagne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOP" coords="187,113,4" onmouseover="return overlib('Rouen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOT" coords="173,169,4" onmouseover="return overlib('Tours');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFOV" coords="131,152,4" onmouseover="return overlib('Laval');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPB" coords="223,125,4" onmouseover="return overlib('Paris');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPC" coords="225,117,4" onmouseover="return overlib('Creil');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPG" coords="225,123,4" onmouseover="return overlib('Paris-Charles De Gaulle');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPM" coords="230,135,4" onmouseover="return overlib('Melun');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPN" coords="213,131,4" onmouseover="return overlib('Toussus-le-Noble');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPO" coords="222,132,4" onmouseover="return overlib('Paris-Orly');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPT" coords="211,121,4" onmouseover="return overlib('Pontoise');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFPV" coords="216,131,4" onmouseover="return overlib('Villacoublay');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFQA" coords="272,118,4" onmouseover="return overlib('Reims');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFQB" coords="268,143,4" onmouseover="return overlib('Troyes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFQG" coords="242,182,4" onmouseover="return overlib('Nevers');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFQQ" coords="242,79,4" onmouseover="return overlib('Lille');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRB" coords="26,140,4" onmouseover="return overlib('Brest');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRC" coords="110,105,4" onmouseover="return overlib('Cherbourg');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRD" coords="93,136,4" onmouseover="return overlib('Dinard');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRG" coords="157,113,4" onmouseover="return overlib('Deauville');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRH" coords="54,159,4" onmouseover="return overlib('Lorient');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRI" coords="113,190,4" onmouseover="return overlib('La Roche-sur-Yon');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRJ" coords="33,138,4" onmouseover="return overlib('Landivisiau');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRK" coords="140,119,4" onmouseover="return overlib('Caen');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRL" coords="25,145,4" onmouseover="return overlib('Lanvéoc');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRM" coords="159,155,4" onmouseover="return overlib('Le Mans');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRN" coords="103,151,4" onmouseover="return overlib('Rennes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRO" coords="53,131,4" onmouseover="return overlib('Lannion');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRQ" coords="33,154,4" onmouseover="return overlib('Quimper');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRS" coords="107,177,4" onmouseover="return overlib('Nantes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRT" coords="71,138,4" onmouseover="return overlib('Saint-Brieuc');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRU" coords="43,136,4" onmouseover="return overlib('Morlaix');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRV" coords="74,161,4" onmouseover="return overlib('Vannes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFRZ" coords="90,172,4" onmouseover="return overlib('Saint-Nazaire');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSB" coords="369,164,4" onmouseover="return overlib('Bâle-Mulhouse');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSD" coords="299,174,4" onmouseover="return overlib('Dijon');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSI" coords="294,135,4" onmouseover="return overlib('Saint-Dizier');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSL" coords="195,238,4" onmouseover="return overlib('Brive-la-Gaillarde');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSN" coords="332,133,4" onmouseover="return overlib('Nancy');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSO" coords="324,136,4" onmouseover="return overlib('Nancy');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFST" coords="372,137,4" onmouseover="return overlib('Strasbourg');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFSX" coords="335,159,4" onmouseover="return overlib('Luxeuil-les-Bains');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFTH" coords="330,294,4" onmouseover="return overlib('Toulon');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFTW" coords="280,275,4" onmouseover="return overlib('Nîmes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LFYR" coords="201,172,4" onmouseover="return overlib('Romorantin');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMC" coords="404,221,4" onmouseover="return overlib('Milan');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIME" coords="432,220,4" onmouseover="return overlib('Bergame');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMF" coords="373,233,4" onmouseover="return overlib('Turin');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMG" coords="386,266,4" onmouseover="return overlib('Albenga');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMH" coords="374,212,4" onmouseover="return overlib('Pian Rosa');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMJ" coords="407,256,4" onmouseover="return overlib('Gênes');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMK" coords="375,238,4" onmouseover="return overlib('Turin');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIML" coords="420,227,4" onmouseover="return overlib('Milan');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMN" coords="402,224,4" onmouseover="return overlib('Novare');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMS" coords="432,241,4" onmouseover="return overlib('Plaisance');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMT" coords="438,255,4" onmouseover="return overlib('Passo della Cisa');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMU" coords="388,269,4" onmouseover="return overlib('Andora');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMV" coords="409,250,4" onmouseover="return overlib('Passo dei Giovi');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMY" coords="377,261,4" onmouseover="return overlib('Prato Nevoso');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIMZ" coords="372,252,4" onmouseover="return overlib('Coni');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LIQW" coords="440,265,4" onmouseover="return overlib('Sarzana');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LOIH" coords="432,171,4" onmouseover="return overlib('Dornbirn');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSGC" coords="348,179,4" onmouseover="return overlib('La Chaux-de-Fonds');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSGG" coords="329,203,4" onmouseover="return overlib('Genève');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSGS" coords="363,204,4" onmouseover="return overlib('Sion');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSMP" coords="353,187,4" onmouseover="return overlib('Payerne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSZA" coords="411,210,4" onmouseover="return overlib('Lugano');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSZB" coords="368,184,4" onmouseover="return overlib('Berne');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSZG" coords="366,176,4" onmouseover="return overlib('Granges');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSZH" coords="398,168,4" onmouseover="return overlib('Zurich');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSZR" coords="428,168,4" onmouseover="return overlib('Saint-Gall');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="france.php?icao=LSZS" coords="437,195,4" onmouseover="return overlib('Saint-Moritz');" onmouseout="nd();">
+<area SHAPE=POLY href="allemagne.php" coords="440,91,440,99,448,95" onmouseover="return overlib('Allemagne');" onmouseout="nd();">
+<area SHAPE=POLY href="espagne-portugal.php" coords="149,354,157,354,153,362" onmouseover="return overlib('Espagne, Portugal');" onmouseout="nd();">
+<area SHAPE=POLY href="italie.php" coords="440,249,440,257,448,253" onmouseover="return overlib('Italie');" onmouseout="nd();">
+<area SHAPE=POLY href="royaume-uni-irlande.php" coords="134,9,142,9,138,1" onmouseover="return overlib('Royaume-Uni - Irlande');" onmouseout="nd();">
+<area SHAPE=POLY href="portugal-espagne.php" coords="41,354,49,354,45,362" onmouseover="return overlib('Portugal, Espagne');" onmouseout="nd();">
+<area SHAPE=POLY href="autriche-rep-tcheque-slovenie.php" coords="440,169,440,177,448,173" onmouseover="return overlib('Autriche, République Tchèque, Slovénie');" onmouseout="nd();">
+<area SHAPE=POLY href="irlande.php" coords="9,40,9,32,1,36" onmouseover="return overlib('Irlande');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="angleterre-galles.php" coords="124,38,5" onmouseover="return overlib('Angleterre, Pays de Galles');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="pays-bas-belgique-luxembourg.php" coords="322,58,5" onmouseover="return overlib('Pays-Bas, Belgique, Luxembourg');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="suisse-italie-nord.php" coords="419,210,5" onmouseover="return overlib('Suisse, Italie, nord');" onmouseout="nd();">
+<area SHAPE=CIRCLE href="europe.php" coords="9,354,5" onmouseover="return overlib('Europe');" onmouseout="nd();">
+</map><img src="http://www.allmetsat.com/img/metar-taf/c177.gif" width=451 height=364 USEMAP="#zone">
+<p>Pour changer de carte: cliquez sur les boutons verts avec une croix noire pour zoomer, sur le bouton vert avec un tiret pour effectuer un zoom arrière, ou sur les flèches vertes pour les cartes adjacentes.</p></div><br>
+<div id="footer"><p>Les informations qui figurent sur ce site font l'objet d'une <a href="http://fr.allmetsat.com/disclaimer.php">clause de non-responsabilité</a></p></div>
+<div class="vert">
+ <div class="vertb">METAR-TAF:</div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/europe.php">Europe</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/afrique.php">Afrique</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/amerique-du-nord.php">Amérique du Nord</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/amerique-du-sud.php">Amérique du Sud</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/asie.php">Asie</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/australie-oceanie.php">Australie-Océanie</a></div>
+ <div class="orang"><a href="http://fr.allmetsat.com/metar-taf/index.html">Autres</a></div>
+</div>
+<div class="vert">
+<div class="orang"><a href="http://fr.allmetsat.com/images/sat24_france_vis.php">Images satellite</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/prevision-meteo/france.php?city=3403">Prévisions 10 jours</a></div><div class="orang"><a href="http://fr.allmetsat.com/climat/france.php?code=07027">Climat</a></div><div class="orang"><a href="http://fr.allmetsat.com/meteo-marine/europe.php">Météo marine</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/cyclones.php">Cyclones</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/images/foudre-france.php">Foudre</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/aeroports/france.php?icao=LFRK">Aéroports</a></div><div class="orang"><a href="http://fr.allmetsat.com/faq.php">FAQ</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/langues.php">Langues</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/contact.php">Contact</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/news.php">Actualités</a></div>
+<div class="orang"><a href="http://fr.allmetsat.com/disclaimer.php">A propos</a></div>
+</div>
+<div class="c5b">
+ <!-- AddThis Button BEGIN -->
+ <div class="addthis_toolbox addthis_default_style ">
+  <a class="addthis_button_preferred_1"></a>
+  <a class="addthis_button_preferred_2"></a>
+  <a class="addthis_button_preferred_3"></a>
+  <a class="addthis_button_preferred_4"></a>
+  <a class="addthis_button_compact"></a>
+ </div>
+ <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f37ede978ec5e25"></script>
+ <!-- AddThis Button END -->
+</div>
+<script> 
+var $buoop = {c:2}; 
+function $buo_f(){ 
+ var e = document.createElement("script"); 
+ e.src = "//browser-update.org/update.min.js"; 
+ document.body.appendChild(e);
+};
+try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+catch(e){window.attachEvent("onload", $buo_f)}
+</script> 
+<div class="c5b">
+ <a href="http://www.xiti.com/xiti.asp?s=179671" title="Mesurez votre audience">
+ <script type="text/javascript">
+ <!--
+ Xt_param = 's=179671&p=fr-metar-taf-france';
+ Xt_r = document.referrer;
+ Xt_h = new Date();
+ Xt_i = '<img width="39" height="25" border="0" ';
+ Xt_i += 'src="http://logv26.xiti.com/hit.xiti?'+Xt_param;
+ Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+ if(parseFloat(navigator.appVersion)>=4)
+ {Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+ document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Analyse audience">');
+ //-->
+ </script>
+ <noscript><img width="39" height="25" src="http://logv26.xiti.com/hit.xiti?s=179671&amp;p=fr-metar-taf-france" alt="Analyse audience" />
+ </noscript></a>
+</div>
+</div></body></html>
